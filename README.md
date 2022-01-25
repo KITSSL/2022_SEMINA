@@ -5,4 +5,4 @@
 
 | No |Date|               Topic               |  Presenter  |    Link   |
 |----|----------------|------------------------------------|-------------|-----------|
-| 01 ||[link]|
+| 01 |2022-01-05|KoGPT2|박규현|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/1%EC%9B%94/KoGPT2%20%EB%B0%95%EA%B7%9C%ED%98%84.pdf)|
