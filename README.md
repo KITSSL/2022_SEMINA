@@ -6,3 +6,4 @@
 | No |Date|               Topic               |  Presenter  |    Link   |
 |----|----------------|------------------------------------|-------------|-----------|
 | 01 |2022-01-05|KoGPT2|박규현|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/1%EC%9B%94/KoGPT2%20%EB%B0%95%EA%B7%9C%ED%98%84.pdf)|
+| 02 |2022-01-05|Word Embedding|손주혜|[link](https://github.com/KITSSL/2022_SEMINA/commit/cd31cadcf51be21165ba62ec7a3ce0a68e501698)|
