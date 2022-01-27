@@ -10,4 +10,4 @@
 | 03 |2022-01-05||김원렬|[link]
 | 04 |2022-01-10|DB Join 연산|김혜진|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/1%EC%9B%94/220110_DB%20JOIN%EC%97%B0%EC%82%B0.pptx)|
 | 05 |2022-01-27|고급python|박규현|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/1%EC%9B%94/20220126%20%EA%B3%A0%EA%B8%89%20python%20%EB%B0%95%EA%B7%9C%ED%98%84.pdf)
-| 06 |2022-01-27||김원렬|[link]()
+| 06 |2022-01-27||김원렬|[link]
