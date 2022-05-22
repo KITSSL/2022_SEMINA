@@ -25,7 +25,7 @@
 | 18 |2022-04-12|크롤러|서준혁|[link]|
 | 19 |2022-04-12|Search Engine|김혜진|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/4%EC%9B%94/220412_Search%20Engine(%EA%B9%80%ED%98%9C%EC%A7%84).pptx)|
 | 20 |2022-05-02|Unity를 활용한 3D 발표 시뮬레이터|손주혜|[link]|
-| 21 |2022-05-02|스테가노그래피|이근탁|[link]https://github.com/KITSSL/2022_SEMINA/blob/main/5%EC%9B%94/20190788%20%EC%9D%B4%EA%B7%BC%ED%83%81%20%EC%8A%A4%ED%85%8C%EA%B0%80%EB%85%B8%EA%B7%B8%EB%9E%98%ED%94%BC.pdf|
+| 21 |2022-05-02|스테가노그래피|이근탁|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/5%EC%9B%94/20190788%20%EC%9D%B4%EA%B7%BC%ED%83%81%20%EC%8A%A4%ED%85%8C%EA%B0%80%EB%85%B8%EA%B7%B8%EB%9E%98%ED%94%BC.pdf)|
 | 22 |2022-05-02||박준수|[link]|
 | 23 |2022-05-02||김형준|[link]|
 | 24 |2022-05-16||김원렬|[link]|
