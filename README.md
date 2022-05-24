@@ -32,3 +32,4 @@
 | 25 |2022-05-16||서준혁|[link]|
 | 26 |2022-05-16|Docker|김혜진|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/5%EC%9B%94/220516_Docker(%EA%B9%80%ED%98%9C%EC%A7%84).pptx)|
 | 27 |2022-05-23|Backdoor|이근탁|[link](https://github.com/KITSSL/2022_SEMINA/commit/a2f19b97cee4929043934daa8fcc087fd67adf1f)|
+| 28 |2022-05-23|블록체인과 암호화폐 2|박준수|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/5%EC%9B%94/220523_%E1%84%87%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A9%E1%86%A8%E1%84%8E%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%AA_%E1%84%8B%E1%85%A1%E1%86%B7%E1%84%92%E1%85%A9%E1%84%92%E1%85%AA%E1%84%91%E1%85%A82(%E1%84%87%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%AE%E1%86%AB%E1%84%89%E1%85%AE).pdf)|
