@@ -15,7 +15,7 @@
 | 08 |2022-02-16|Rust|김원렬|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/2%EC%9B%94/202000252_%EA%B9%80%EC%9B%90%EB%A0%AC_RUST.pdf)|
 | 09 |2022-02-23|Python Programming|박규현|[link]|
 | 10 |2022-03-14|금오 소식 꾸러미 웹서비스|서준혁|[link]|
-| 11 |2022-03-14|C++ 코딩테스트|손주혜|[link]|
+| 11 |2022-03-14|C++ 코딩테스트|손주혜|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/3%EC%9B%94/C%2B%2B%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8.pdf)|
 | 12 |2022-03-21|Unity1|김원렬|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/3%EC%9B%94/202000252_%EA%B9%80%EC%9B%90%EB%A0%AC_%EC%9C%A0%EB%8B%88%ED%8B%B02.pptx)|
 | 13 |2022-03-21|No SQL|김혜진|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/3%EC%9B%94/220322_NoSQL(%EA%B9%80%ED%98%9C%EC%A7%84).pptx)|
 | 14 |2022-03-28|C++ 코딩테스트|손주혜|[link]|
