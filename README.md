@@ -23,7 +23,7 @@
 | 16 |2022-04-12|Unity2|김원렬|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/4%EC%9B%94/202000252_%EA%B9%80%EC%9B%90%EB%A0%AC_%EC%9C%A0%EB%8B%88%ED%8B%B02.pptx)|
 | 17 |2022-04-12|크롤러|서준혁|[link]|
 | 18 |2022-04-12|Search Engine|김혜진|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/4%EC%9B%94/220412_Search%20Engine(%EA%B9%80%ED%98%9C%EC%A7%84).pptx)|
-| 19 |2022-05-02|Unity를 활용한 3D 발표 시뮬레이터|손주혜|[link]|
+| 19 |2022-05-02|Unity를 활용한 3D 발표 시뮬레이터|손주혜|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/5%EC%9B%94/20220502_Unity%EB%A5%BC_%ED%99%9C%EC%9A%A9%ED%95%9C_3D_%EB%B0%9C%ED%91%9C%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%ED%84%B0_%EC%86%90%EC%A3%BC%ED%98%9C.pdf)|
 | 20 |2022-05-02|스테가노그래피|이근탁|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/5%EC%9B%94/20190788%20%EC%9D%B4%EA%B7%BC%ED%83%81%20%EC%8A%A4%ED%85%8C%EA%B0%80%EB%85%B8%EA%B7%B8%EB%9E%98%ED%94%BC.pdf)|
 | 21 |2022-05-02|블록체인과 암호화폐 1|박준수|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/5%EC%9B%94/220502_%E1%84%87%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A9%E1%86%A8%E1%84%8E%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%AA_%E1%84%8B%E1%85%A1%E1%86%B7%E1%84%92%E1%85%A9%E1%84%92%E1%85%AA%E1%84%91%E1%85%A81(%E1%84%87%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%AE%E1%86%AB%E1%84%89%E1%85%AE).pdf)|
 | 22 |2022-05-02|몸캠피싱 악성코드 분석 및 대응|김형준|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/5%EC%9B%94/220502%20%EA%B9%80%ED%98%95%EC%A4%80.pptx)|
