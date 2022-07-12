@@ -18,7 +18,7 @@
 | 11 |2022-03-14|C++ 코딩테스트|손주혜|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/3%EC%9B%94/C%2B%2B%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8.pdf)|
 | 12 |2022-03-21|Unity1|김원렬|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/3%EC%9B%94/202000252_%EA%B9%80%EC%9B%90%EB%A0%AC_%EC%9C%A0%EB%8B%88%ED%8B%B02.pptx)|
 | 13 |2022-03-21|No SQL|김혜진|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/3%EC%9B%94/220322_NoSQL(%EA%B9%80%ED%98%9C%EC%A7%84).pptx)|
-| 14 |2022-03-28|C++ 코딩테스트|손주혜|[link]|
+| 14 |2022-03-28|C++ 코딩테스트 2|손주혜|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/3%EC%9B%94/C%2B%2B%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%202.pdf)|
 | 15 |2022-04-05|MRC|박규현|[link]|
 | 16 |2022-04-12|Unity2|김원렬|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/4%EC%9B%94/202000252_%EA%B9%80%EC%9B%90%EB%A0%AC_%EC%9C%A0%EB%8B%88%ED%8B%B02.pptx)|
 | 17 |2022-04-12|크롤러|서준혁|[link]|
