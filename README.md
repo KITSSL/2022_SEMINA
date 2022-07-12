@@ -11,7 +11,7 @@
 | 04 |2022-01-26|고급python|박규현|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/1%EC%9B%94/20220126%20%EA%B3%A0%EA%B8%89%20python%20%EB%B0%95%EA%B7%9C%ED%98%84.pdf)
 | 05 |2022-01-26|메타버스|김원렬|[link]|
 | 06 |2022-02-09|REST API URI 설계|김혜진|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/2%EC%9B%94/220209_REST%20API%20URI%20%EC%84%A4%EA%B3%84(%EA%B9%80%ED%98%9C%EC%A7%84).pptx)|
-| 07 |2022-02-09|Word Embedding|손주혜|[link]|
+| 07 |2022-02-09|Word Embedding 2|손주혜|[link](https://github.com/KITSSL/2022_SEMINA/commit/7d414a3d395829290e6cbe79358d11fb01570187)|
 | 08 |2022-02-16|Rust|김원렬|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/2%EC%9B%94/202000252_%EA%B9%80%EC%9B%90%EB%A0%AC_RUST.pdf)|
 | 09 |2022-02-23|Python Programming|박규현|[link]|
 | 10 |2022-03-14|금오 소식 꾸러미 웹서비스|서준혁|[link]|
