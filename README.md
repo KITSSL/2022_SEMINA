@@ -13,13 +13,13 @@
 | 06 |2022-02-09|REST API URI 설계|김혜진|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/2%EC%9B%94/220209_REST%20API%20URI%20%EC%84%A4%EA%B3%84(%EA%B9%80%ED%98%9C%EC%A7%84).pptx)|
 | 07 |2022-02-09|Word Embedding 2|손주혜|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/2%EC%9B%94/Word%20Embedding%202.pdf)|
 | 08 |2022-02-16|Rust|김원렬|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/2%EC%9B%94/202000252_%EA%B9%80%EC%9B%90%EB%A0%AC_RUST.pdf)|
-| 09 |2022-02-23|Python Programming|박규현|[link]|
+| 09 |2022-02-23|Python Programming|박규현|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/2%EC%9B%94/20220223%20PythonProgramming%20%EB%B0%95%EA%B7%9C%ED%98%84.pdf)|
 | 10 |2022-03-14|금오 소식 꾸러미 웹서비스|서준혁|[link]|
 | 11 |2022-03-14|C++ 코딩테스트|손주혜|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/3%EC%9B%94/C%2B%2B%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8.pdf)|
 | 12 |2022-03-21|Unity1|김원렬|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/3%EC%9B%94/202000252_%EA%B9%80%EC%9B%90%EB%A0%AC_%EC%9C%A0%EB%8B%88%ED%8B%B02.pptx)|
 | 13 |2022-03-21|No SQL|김혜진|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/3%EC%9B%94/220322_NoSQL(%EA%B9%80%ED%98%9C%EC%A7%84).pptx)|
 | 14 |2022-03-28|C++ 코딩테스트 2|손주혜|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/3%EC%9B%94/C%2B%2B%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%202.pdf)|
-| 15 |2022-04-05|MRC|박규현|[link]|
+| 15 |2022-04-05|MRC|박규현|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/4%EC%9B%94/20220405%20MRC%20%EB%B0%95%EA%B7%9C%ED%98%84.pdf)|
 | 16 |2022-04-12|Unity2|김원렬|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/4%EC%9B%94/202000252_%EA%B9%80%EC%9B%90%EB%A0%AC_%EC%9C%A0%EB%8B%88%ED%8B%B02.pptx)|
 | 17 |2022-04-12|크롤러|서준혁|[link]|
 | 18 |2022-04-12|Search Engine|김혜진|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/4%EC%9B%94/220412_Search%20Engine(%EA%B9%80%ED%98%9C%EC%A7%84).pptx)|
@@ -34,10 +34,11 @@
 | 27 |2022-05-23|블록체인과 암호화폐 2|박준수|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/5%EC%9B%94/220523_%E1%84%87%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A9%E1%86%A8%E1%84%8E%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%AA_%E1%84%8B%E1%85%A1%E1%86%B7%E1%84%92%E1%85%A9%E1%84%92%E1%85%AA%E1%84%91%E1%85%A82(%E1%84%87%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%AE%E1%86%AB%E1%84%89%E1%85%AE).pdf)|
 | 28 |2022-05-23|Dll Injection&API Hooking|김형준|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/5%EC%9B%94/220523_Dll%20Injection%26API%20Hooking(%EA%B9%80%ED%98%95%EC%A4%80).pptx)|
 | 29 |2022-07-06|딥러닝 기반 차량 인식 시스템|서준혁|[link]|
-| 30 |2022-07-13||김혜진|[link]|
-| 31 |2022-07-13||서준혁|[link]|
-| 32 |2022-07-20|Stack Canary|이근탁|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/7%EC%9B%94/Pwnable_1_.pptx)|
-| 33 |2022-07-20||김원렬|[link]|
-| 34 |2022-08-03|함수형 프로그래밍|박준수|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/8%EC%9B%94/220803_%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%E1%84%92%E1%85%A7%E1%86%BC%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%B5%E1%86%BC(%E1%84%87%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%AE%E1%86%AB%E1%84%89%E1%85%AE).pdf)|
-| 35 |2022-08-03||김혜진|[link]|
-| 36 |2022-08-03||서준혁|[link]|
+| 30 |2022-07-06|Kaggle - Sorghum Competition|박규현|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/7%EC%9B%94/20220706%20Sorghum%20%EB%B0%95%EA%B7%9C%ED%98%84.pdf)|
+| 31 |2022-07-13||김혜진|[link]|
+| 32 |2022-07-13||서준혁|[link]|
+| 33 |2022-07-20|Stack Canary|이근탁|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/7%EC%9B%94/Pwnable_1_.pptx)|
+| 34 |2022-07-20||김원렬|[link]|
+| 35 |2022-08-03|함수형 프로그래밍|박준수|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/8%EC%9B%94/220803_%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%E1%84%92%E1%85%A7%E1%86%BC%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%B5%E1%86%BC(%E1%84%87%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%AE%E1%86%AB%E1%84%89%E1%85%AE).pdf)|
+| 36 |2022-08-03||김혜진|[link]|
+| 37 |2022-08-03||서준혁|[link]|
