@@ -43,6 +43,6 @@
 | 36 |2022-08-03|Elasticsearch|김혜진|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/8%EC%9B%94/220803_Elasticsearch.pptx)|
 | 37 |2022-08-03|딥러닝 기반 차량 인식 시스템|서준혁|[link]|
 | 38 |2022-08-10|Bouncy Ball 3D|김원렬|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/8%EC%9B%94/20200252_BouncyBall.pdf)|
-| 39 |2022-08-10|Pwnable|이근탁|[link]|
+| 39 |2022-08-10|NX&ASLR|이근탁|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/8%EC%9B%94/220810_NXASLR.pptx)|
 | 40 |2022-08-10|딥러닝 기반 차량 인식 시스템|서준혁|[link]|
 | 41 |2022-08-17|Serverless|김혜진|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/8%EC%9B%94/220817_Serverless.pptx)|
