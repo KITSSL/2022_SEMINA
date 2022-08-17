@@ -38,11 +38,11 @@
 | 31 |2022-07-13|Session 기반 로그인 구현|김혜진|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/7%EC%9B%94/220713_Session%20%EA%B8%B0%EB%B0%98%20%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EA%B5%AC%ED%98%84.pptx)|
 | 32 |2022-07-13|딥러닝 기반 차량 인식 시스템|서준혁|[link]|
 | 33 |2022-07-20|Stack Canary|이근탁|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/7%EC%9B%94/Pwnable_1_.pptx)|
-| 34 |2022-07-20|Unity 멀티 게임 2|김원렬|[link]|
+| 34 |2022-07-20|Unity 멀티 게임 2|김원렬|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/7%EC%9B%94/20200252_Multi-game.pdf)|
 | 35 |2022-08-03|함수형 프로그래밍|박준수|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/8%EC%9B%94/220803_%E1%84%92%E1%85%A1%E1%86%B7%E1%84%89%E1%85%AE%E1%84%92%E1%85%A7%E1%86%BC%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%B5%E1%86%BC(%E1%84%87%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%AE%E1%86%AB%E1%84%89%E1%85%AE).pdf)|
 | 36 |2022-08-03|Elasticsearch|김혜진|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/8%EC%9B%94/220803_Elasticsearch.pptx)|
 | 37 |2022-08-03|딥러닝 기반 차량 인식 시스템|서준혁|[link]|
-| 38 |2022-08-10|Bouncy Ball 3D|김원렬|[link]|
+| 38 |2022-08-10|Bouncy Ball 3D|김원렬|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/8%EC%9B%94/20200252_BouncyBall.pdf)|
 | 39 |2022-08-10|Pwnable|이근탁|[link]|
 | 40 |2022-08-10|딥러닝 기반 차량 인식 시스템|서준혁|[link]|
 | 41 |2022-08-17|Serverless|김혜진|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/8%EC%9B%94/220817_Serverless.pptx)|
