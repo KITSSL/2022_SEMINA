@@ -47,5 +47,5 @@
 | 40 |2022-08-10|딥러닝 기반 차량 인식 시스템|서준혁|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/8%EC%9B%94/220810_%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EB%B0%98%20%EC%B0%A8%EB%9F%89%20%EC%9D%B8%EC%8B%9D%20%EC%8B%9C%EC%8A%A4%ED%85%9C.pdf)|
 | 41 |2022-08-17|Serverless|김혜진|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/8%EC%9B%94/220817_Serverless.pptx)|
 | 42 |2022-09-07||서준혁|[link]()|
-| 43 |2022-09-07|모의침투-1|김형준|[link]()|
+| 43 |2022-09-07|모의침투-1|김형준|[link]()|https://github.com/KITSSL/2022_SEMINA/blob/main/9%EC%9B%94/220907_%EB%AA%A8%EC%9D%98%EC%B9%A8%ED%88%AC-1.pdf|
 | 44 |2022-09-07|블록체인과 암호화폐 3|박준수|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/9%EC%9B%94/220907_%E1%84%87%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A9%E1%86%A8%E1%84%8E%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%AA%20%E1%84%8B%E1%85%A1%E1%86%B7%E1%84%92%E1%85%A9%E1%84%92%E1%85%AA%E1%84%91%E1%85%A83.pdf)|
