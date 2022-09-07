@@ -45,7 +45,7 @@
 | 38 |2022-08-10|Bouncy Ball 3D|김원렬|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/8%EC%9B%94/20200252_BouncyBall.pdf)|
 | 39 |2022-08-10|NX&ASLR|이근탁|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/8%EC%9B%94/220810_NXASLR.pptx)|
 | 40 |2022-08-10|딥러닝 기반 차량 인식 시스템|서준혁|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/8%EC%9B%94/220810_%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EB%B0%98%20%EC%B0%A8%EB%9F%89%20%EC%9D%B8%EC%8B%9D%20%EC%8B%9C%EC%8A%A4%ED%85%9C.pdf)|
-| 41 |2022-08-07|Serverless|김혜진|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/8%EC%9B%94/220817_Serverless.pptx)|
+| 41 |2022-08-17|Serverless|김혜진|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/8%EC%9B%94/220817_Serverless.pptx)|
 | 42 |2022-09-07||서준혁|[link]()|
 | 43 |2022-09-07||김형준|[link]()|
 | 44 |2022-09-07|블록체인과 암호화폐 3|박준수|[link]()|
