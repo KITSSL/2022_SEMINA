@@ -50,7 +50,7 @@
 | 43 |2022-09-07|모의침투-1|김형준|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/9%EC%9B%94/220907_%EB%AA%A8%EC%9D%98%EC%B9%A8%ED%88%AC-1.pdf)|
 | 44 |2022-09-07|블록체인과 암호화폐 3|박준수|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/9%EC%9B%94/220907_%E1%84%87%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A9%E1%86%A8%E1%84%8E%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%AA%20%E1%84%8B%E1%85%A1%E1%86%B7%E1%84%92%E1%85%A9%E1%84%92%E1%85%AA%E1%84%91%E1%85%A83.pdf)|
 | 45 |2022-09-13|3D FPS Game|김원렬|[link]()|
-| 46 |2022-09-13|Pwnable 2.5|이근탁|[link]()|
+| 46 |2022-09-13|Pwnable 2.5|이근탁|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/9%EC%9B%94/ROP.pptx)|
 | 47 |2022-09-20|Kubernetes|김혜진|[link]()|
 | 48 |2022-09-20||서준혁|[link]()|
 | 49 |2022-09-20|||[link]()|
