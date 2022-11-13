@@ -60,7 +60,7 @@
 | 53  | 2022-10-13 |Kitacs Bugbounty|이근탁|[link](https://github.com/KITSSL/2022_SEMINA/commit/cfec3dd1c347fec3d8b711d56b5d30eae79b5e7f)|
 | 54  | 2022-10-13 |         |김원렬|[link]|
 | 55  | 2022-10-20 |딥러닝 기반 차량 인식 시스템(8)|서준혁|[link]|
-| 56  | 2022-10-20 |GraphQL|김혜진|[link]|
+| 56  | 2022-10-20 |GraphQL|김혜진|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/10%EC%9B%94/221020_GraphQL.pptx)|
 | 57  | 2022-11-10 ||이근탁|[link]|
 | 58  | 2022-11-10 ||박준수|[link]|
 | 59  | 2022-11-10 ||서준혁|[link]|
