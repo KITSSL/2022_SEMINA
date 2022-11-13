@@ -52,10 +52,17 @@
 | 45 |2022-09-13|3D FPS Game|김원렬|[link]()|
 | 46 |2022-09-13|Pwnable 2.5|이근탁|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/9%EC%9B%94/ROP.pptx)|
 | 47 |2022-09-20|Kubernetes|김혜진|[link]()|
-| 48 |2022-09-20||서준혁|[link]()|
-| 49 |2022-09-20|||[link]()|
-| 50  | 2022-10-06 | Web 3.0 |박준수|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/10%EC%9B%94/221006_Web3.pdf)|
-| 51  | 2022-10-06 | 랜섬웨어 분석-1 |김형준| [link]() |
-| 52  | 2022-10-06 |         |서준혁| [link]() |
-| 53  | 2022-10-13 | Kitacs Bugbounty |이근탁|[link](https://github.com/KITSSL/2022_SEMINA/commit/cfec3dd1c347fec3d8b711d56b5d30eae79b5e7f)|
+| 48 |2022-09-20|딥러닝 기반 차량 인식 시스템(6)|서준혁|[link]()|
+| 49 |2022-09-20|Data Parallelism|박규현|[link]()|
+| 50  | 2022-10-06 |Web 3.0|박준수|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/10%EC%9B%94/221006_Web3.pdf)|
+| 51  | 2022-10-06 |랜섬웨어 분석-1|김형준| [link]() |
+| 52  | 2022-10-06 |딥러닝 기반 차량 인식 시스템(7)|서준혁| [link]() |
+| 53  | 2022-10-13 |Kitacs Bugbounty|이근탁|[link](https://github.com/KITSSL/2022_SEMINA/commit/cfec3dd1c347fec3d8b711d56b5d30eae79b5e7f)|
 | 54  | 2022-10-13 |         |김원렬| [link]() |
+| 55  | 2022-10-20 |딥러닝 기반 차량 인식 시스템(8)|서준혁| [link]() |
+| 56  | 2022-10-20 |GraphQL|김혜진| [link]() |
+| 57  | 2022-11-10 ||이근탁| [link]() |
+| 58  | 2022-11-10 ||박준수| [link]() |
+| 59  | 2022-11-10 ||서준혁| [link]() |
+
+
