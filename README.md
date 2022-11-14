@@ -61,7 +61,7 @@
 | 54  | 2022-10-13 |         |김원렬|[link]|
 | 55  | 2022-10-20 |딥러닝 기반 차량 인식 시스템(8)|서준혁|[link]|
 | 56  | 2022-10-20 |GraphQL|김혜진|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/10%EC%9B%94/221020_GraphQL.pptx)|
-| 57  | 2022-11-10 ||이근탁|[link]|
+| 57  | 2022-11-10 |Forensic CTF WriteUp|이근탁|[link](https://github.com/KITSSL/2022_SEMINA/commit/3cba1072695e56c3254b2a1c461b9d4882f24ab8)|
 | 58  | 2022-11-10 |IPFS|박준수|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/11%EC%9B%94/221110_IPFS.pdf)|
 | 59  | 2022-11-10 ||서준혁|[link]|
 
