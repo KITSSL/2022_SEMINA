@@ -64,5 +64,13 @@
 | 57  | 2022-11-10 |Forensic CTF WriteUp|이근탁|[link](https://github.com/KITSSL/2022_SEMINA/commit/3cba1072695e56c3254b2a1c461b9d4882f24ab8)|
 | 58  | 2022-11-10 |IPFS|박준수|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/11%EC%9B%94/221110_IPFS.pdf)|
 | 59  | 2022-11-10 ||서준혁|[link]|
+| 60  | 2022-11-17 |||[link]|
+| 61  | 2022-11-17 |||[link]|
+| 62  | 2022-11-17 |||[link]|
+| 63  | 2022-11-24 |Interlude: Crypto issue|박준수|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/11%EC%9B%94/221124_Dapp.pdf)|
+| 64  | 2022-11-24 ||이근탁|[link]|
+| 65  | 2022-11-24 ||서준혁|[link]|
+| 65  | 2022-12-01 ||김원렬|[link]|
+
 
 
