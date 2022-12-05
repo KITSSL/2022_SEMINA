@@ -70,7 +70,7 @@
 | 63  | 2022-11-24 |Interlude: Crypto issue|박준수|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/11%EC%9B%94/221124_Dapp.pdf)|
 | 64  | 2022-11-24 ||이근탁|[link]|
 | 65  | 2022-11-24 ||서준혁|[link]|
-| 65  | 2022-12-01 ||김원렬|[link]|
+| 66  | 2022-12-01 ||김원렬|[link]|
 
 
 
