@@ -65,7 +65,7 @@
 | 58  | 2022-11-10 |IPFS|박준수|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/11%EC%9B%94/221110_IPFS.pdf)|
 | 59  | 2022-11-10 |         |서준혁|[link]|
 | 60  | 2022-11-17 |유니티 멀티게임|김원렬|[link]|
-| 61  | 2022-11-17 |Disaster Recovery|김혜진|[link]|
+| 61  | 2022-11-17 |Disaster Recovery|김혜진|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/11%EC%9B%94/221117_DR.pptx)|
 | 62  | 2022-11-24 |Interlude: Crypto issue|박준수|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/11%EC%9B%94/221124_Dapp.pdf)|
 | 63  | 2022-11-24 |Memory Forensic|이근탁|[link]|
 | 64  | 2022-11-24 |ResNet|서준혁|[link]|
