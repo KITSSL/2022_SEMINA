@@ -63,7 +63,7 @@
 | 56  | 2022-10-20 |GraphQL|김혜진|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/10%EC%9B%94/221020_GraphQL.pptx)|
 | 57  | 2022-11-10 |Forensic CTF WriteUp|이근탁|[link](https://github.com/KITSSL/2022_SEMINA/commit/3cba1072695e56c3254b2a1c461b9d4882f24ab8)|
 | 58  | 2022-11-10 |IPFS|박준수|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/11%EC%9B%94/221110_IPFS.pdf)|
-| 59  | 2022-11-10 |         |서준혁|[link]|
+| 59  | 2022-11-10 |작성 논문 리뷰|서준혁|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/11%EC%9B%94/221110%20%EC%9E%91%EC%84%B1%20%EB%85%BC%EB%AC%B8%20%EB%A6%AC%EB%B7%B0.pdf)|
 | 60  | 2022-11-17 |유니티 멀티게임|김원렬|[link]|
 | 61  | 2022-11-17 |Disaster Recovery|김혜진|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/11%EC%9B%94/221117_DR.pptx)|
 | 62  | 2022-11-24 |Interlude: Crypto issue|박준수|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/11%EC%9B%94/221124_Dapp.pdf)|
