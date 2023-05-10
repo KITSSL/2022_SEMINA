@@ -49,7 +49,7 @@
 | 42 |2022-09-07|딥러닝 기반 차량 인식 시스템(5)|서준혁|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/9%EC%9B%94/220907_%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EB%B0%98%20%EC%B0%A8%EB%9F%89%20%EC%9D%B8%EC%8B%9D%20%EC%8B%9C%EC%8A%A4%ED%85%9C(5).pdf)|
 | 43 |2022-09-07|모의침투-1|김형준|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/9%EC%9B%94/220907_%EB%AA%A8%EC%9D%98%EC%B9%A8%ED%88%AC-1.pdf)|
 | 44 |2022-09-07|블록체인과 암호화폐 3|박준수|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/9%EC%9B%94/220907_%E1%84%87%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A9%E1%86%A8%E1%84%8E%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%AA%20%E1%84%8B%E1%85%A1%E1%86%B7%E1%84%92%E1%85%A9%E1%84%92%E1%85%AA%E1%84%91%E1%85%A83.pdf)|
-| 45 |2022-09-13|3D FPS Game|김원렬|[link]|
+| 45 |2022-09-13|3D FPS Game|김원렬|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/9%EC%9B%94/2023_09_13%203D_FPS_Game.pptx)|
 | 46 |2022-09-13|Pwnable 2.5|이근탁|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/9%EC%9B%94/ROP.pptx)|
 | 47 |2022-09-20|Kubernetes|김혜진|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/9%EC%9B%94/K8S.pptx)|
 | 48 |2022-09-20|딥러닝 기반 차량 인식 시스템(6)|서준혁|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/9%EC%9B%94/220920_%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EB%B0%98%20%EC%B0%A8%EB%9F%89%20%EC%9D%B8%EC%8B%9D%20%EC%8B%9C%EC%8A%A4%ED%85%9C(6)%20%EC%84%9C%EC%A4%80%ED%98%81.pdf)|
@@ -58,13 +58,13 @@
 | 51  | 2022-10-06 |랜섬웨어 분석-1|김형준|[link]|
 | 52  | 2022-10-06 |딥러닝 기반 차량 인식 시스템(7)|서준혁|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/10%EC%9B%94/221006_%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EB%B0%98%20%EC%B0%A8%EB%9F%89%20%EC%9D%B8%EC%8B%9D%20%EC%8B%9C%EC%8A%A4%ED%85%9C(7)%20%EC%84%9C%EC%A4%80%ED%98%81.pdf)|
 | 53  | 2022-10-13 |Kitacs Bugbounty|이근탁|[link](https://github.com/KITSSL/2022_SEMINA/commit/cfec3dd1c347fec3d8b711d56b5d30eae79b5e7f)|
-| 54  | 2022-10-13 |         |김원렬|[link]|
+| 54  | 2022-10-13 |3D FPS Game 2|김원렬|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/10%EC%9B%94/2022_10_13%203D%20FPS%20Game%202.pdf)|
 | 55  | 2022-10-20 |딥러닝 기반 차량 인식 시스템(8)|서준혁|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/10%EC%9B%94/221020_%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EB%B0%98%20%EC%B0%A8%EB%9F%89%20%EC%9D%B8%EC%8B%9D%20%EC%8B%9C%EC%8A%A4%ED%85%9C(8)%20%EC%84%9C%EC%A4%80%ED%98%81.pdf)|
 | 56  | 2022-10-20 |GraphQL|김혜진|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/10%EC%9B%94/221020_GraphQL.pptx)|
 | 57  | 2022-11-10 |Forensic CTF WriteUp|이근탁|[link](https://github.com/KITSSL/2022_SEMINA/commit/3cba1072695e56c3254b2a1c461b9d4882f24ab8)|
 | 58  | 2022-11-10 |IPFS|박준수|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/11%EC%9B%94/221110_IPFS.pdf)|
 | 59  | 2022-11-10 |작성 논문 리뷰|서준혁|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/11%EC%9B%94/221110%20%EC%9E%91%EC%84%B1%20%EB%85%BC%EB%AC%B8%20%EB%A6%AC%EB%B7%B0.pdf)|
-| 60  | 2022-11-17 |유니티 멀티게임|김원렬|[link]|
+| 60  | 2022-11-17 |유니티 멀티게임|김원렬|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/11%EC%9B%94/2022_11_17%20Multi%20FPS%20Zombie%20Game.pdf)|
 | 61  | 2022-11-17 |Disaster Recovery|김혜진|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/11%EC%9B%94/221117_DR.pptx)|
 | 62  | 2022-11-24 |Interlude: Crypto issue|박준수|[link](https://github.com/KITSSL/2022_SEMINA/blob/main/11%EC%9B%94/221124_Dapp.pdf)|
 | 63  | 2022-11-24 |Memory Forensic|이근탁|[link]|
